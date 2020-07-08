@@ -1,11 +1,12 @@
-.nav-update{
-    padding: 30px;
-    font-size: 20px;
-    
+
+.section-gap{
+    padding-top: 70px;
 }
+
 .nav-link{
     margin: 0 15px;
 }
+
 .all-button{
     background-color: #21B573 !important;
     color: aliceblue;
@@ -15,9 +16,43 @@
 }
 
 .slide-background{
-    background-color: aqua;
+    background-color: snow;
+}
+.ready-to-learn{
+    color: #F15228;
 }
 
+.learn-w-fun{
+    font-size: 55px;
+}
+
+span{
+    color: #21B573;
+}
 .carousel-item{
-    padding: 20px 40px;
+    padding: 80px 5px;
+}
+
+.cat-item h4{
+    padding-top: 5px;
+}
+.cat-item:hover{
+   transform: scale(1.2);
+
+}
+
+.o-course{
+    padding: 40px;
+    color: #423961;
+    font-size: 60px;
+}
+
+
+.card-title{
+    font-size: 30px;
+    color: #423961;
+}
+
+.card-text{
+    font-size: 20px;
 }
