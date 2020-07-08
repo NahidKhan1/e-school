@@ -1,0 +1,23 @@
+.nav-update{
+    padding: 30px;
+    font-size: 20px;
+    
+}
+.nav-link{
+    margin: 0 15px;
+}
+.all-button{
+    background-color: #21B573 !important;
+    color: aliceblue;
+    border: none;
+    padding: 9px 30px;
+    cursor: pointer;
+}
+
+.slide-background{
+    background-color: aqua;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
