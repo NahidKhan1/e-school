@@ -1,6 +1,7 @@
 
 .section-gap{
     padding-top: 70px;
+    padding-bottom: 40px;
 }
 
 .nav-link{
@@ -11,7 +12,8 @@
     background-color: #21B573 !important;
     color: aliceblue;
     border: none;
-    padding: 9px 30px;
+    margin-bottom: 10px;
+    padding: 10px 30px;
     cursor: pointer;
 }
 
@@ -47,6 +49,10 @@ span{
     font-size: 60px;
 }
 
+.course-name:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
 
 .card-title{
     font-size: 30px;
@@ -56,3 +62,54 @@ span{
 .card-text{
     font-size: 20px;
 }
+
+.img-card{
+    width: ;
+}
+
+.card-bottom{
+    float: left;
+    width: auto;
+}
+
+
+.t-heder{
+    padding: 40px;
+    color: black;
+    font-size: 60px;
+}
+
+
+.t-para{
+    font-size: 20px;
+    font-weight: 600;
+}
+.fot-all{
+     background-color: #282531;
+     color: white;
+}
+.fot-all p{
+        font-size: 18px;
+        margin-left: 40px;
+}
+
+
+
+ .signup{
+     background-color: slategrey;
+ }
+
+
+
+
+
+
+
+
+footer{
+    padding-top: 50px;
+}
+
+
+
+
